@@ -1,15 +1,11 @@
 # Title of Project: [PROJECT_TITLE_HERE]
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. Md Armaan Ansari
+2. Sion Chowdhary
 
 ## Steps for Execution:
-1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
+
 
 ## Checklist:
 1. Final Project Report
