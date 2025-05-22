@@ -1,11 +1,12 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: SECURE VOTE
 
 ## Team Members:
 1. Md Armaan Ansari
 2. Sion Chowdhary
 
 ## Steps for Execution:
-
+ npm install 
+ npm run start
 
 ## Checklist:
 1. Final Project Report
