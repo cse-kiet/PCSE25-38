@@ -5,9 +5,8 @@
 2. Sion Chowdhary
 
 ## Steps for Execution:
- npm install 
- 
- npm run start
+1. npm install  
+2. npm run start
 
 ## Checklist:
 1. Final Project Report
